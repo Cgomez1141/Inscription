@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">inscription</string>
+    <string name="inscripcion">Inscripción</string>
+    <string name="escribirDatos">(Digita en los siguientes campos)</string>
+    <string name="codigoUsuario">Código:</string>
+    <string name="nameUsuario">Nombre:</string>
+    <string name="apellidoUsuario">Apellido:</string>
+    <string name="semestreUsuario">Semestre:</string>
+    <string name="promedioUsuario">Promedio:</string>
+    <string name="nada"></string>
+    <string name="guardarInfo">Guardar</string>
+    <string name="listarInfo">Listar</string>
+    <string name="borrarInfo">Borrar</string>
+    <string name="actualizarInfo">Actualizar</string>
+    <string name="datosUpdate">Código actualizar/borrar</string>
+</resources>
